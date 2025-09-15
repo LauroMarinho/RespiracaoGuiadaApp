@@ -39,7 +39,7 @@ Um **aplicativo de respiração guiada para Apple Watch**, criado em **SwiftUI**
 
 ## 📸 Screenshots
 
-
+![App Screenshots](https://github.com/LauroMarinho/RespiracaoGuiadaApp/blob/e96d3bca968b289e3d0c306af4954c0a61d0497f/apple_watch_app_screenshots_combined.png)
 
 ## 🤝 Contribuindo
 	1.	Faça um fork do projeto.
